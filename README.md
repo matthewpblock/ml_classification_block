@@ -8,14 +8,14 @@ This repository contains the Jupyter Notebook with the complete analysis, as wel
 
 ## Files in this Repository
 
-*   **[block_classification_midterm.ipynb](block_classification_midterm.ipynb)**: The main Jupyter Notebook containing the entire data science workflow. This includes:
+*   **[block_classification_midterm.ipynb](https://github.com/matthewpblock/ml_classification_block/blob/main/block_classification_midterm.ipynb)**: The main Jupyter Notebook containing the entire data science workflow. This includes:
     *   Data loading and initial inspection.
     *   Exploratory Data Analysis (EDA) to understand data patterns.
     *   Data cleaning, preprocessing, and feature engineering.
     *   Training and evaluation of multiple classification models (Logistic Regression and Decision Tree).
     *   Comparison of model performance to identify the best-performing model.
 
-*   **[peer_review.md](peer_review.md)**: A peer review conducted on a fellow student's classification project.
+*   **[peer_review.md](https://github.com/matthewpblock/ml_classification_block/blob/main/peer_review.md)**: A peer review conducted on a fellow student's classification project.
 
 ## Getting Started
 
